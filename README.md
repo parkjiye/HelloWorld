@@ -32,6 +32,6 @@ cd HelloWorld
 
 ---
 ## API 호출
-`http://localhost:8080/hello`: "Hello World" 출력
+`[GET] http://localhost:8080/hello`: "Hello World" 출력
 
-![image](https://user-images.githubusercontent.com/50205887/208107838-74c4d314-72d8-414d-a4fd-cd478e41d9f8.png)
+<img width="1374" alt="image" src="https://user-images.githubusercontent.com/50205887/208109959-169d314f-4b45-4ad3-804c-a0f30af5a37d.png">
